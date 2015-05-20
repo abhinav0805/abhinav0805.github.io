@@ -1,8 +1,5 @@
-source: .
-destination: ./_site
-plugins: ./_plugins
-layouts: ./_layouts
-data_source: ./_data
+markdown: rdiscount
+pygments: true
 collections:
    projects:
       output:true
