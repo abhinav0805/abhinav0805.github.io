@@ -1,4 +1,4 @@
-destination:./_site
+destination: ./_site
 plugins: ./_plugins
 layouts: ./_layouts
 data_source: ./_data
